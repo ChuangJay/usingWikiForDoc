@@ -1,1 +1,1 @@
-# jay-lab
+https://github.com/ChuangJay/usingWikiForDoc/wiki
